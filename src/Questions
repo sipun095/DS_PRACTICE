@@ -29,3 +29,38 @@ Longest Consecutive Sequence: 05:51:27
 
 String
 -----------------
+Longest Common Prefix: 00:06:38
+Fizz Buzz: 00:15:00
+Longest Repeating Character Replacement: 00:23:02
+Longest Substring Without Repeating Characters: 00:44:14
+Minimum Window Substring: 00:55:29
+Valid Anagram: 01:18:29
+Group Anagrams: 01:29:46
+Valid Parentheses: 01:42:41
+Valid Palindrome: 01:54:30
+Longest Palindromic Substring: 02:03:50
+Palindromic Substrings: 02:20:35
+Palindrome Linked List: 02:34:22
+Encode and Decode Strings: 02:50:16
+Letter Combinations of a Phone Number: 02:58:45
+Text Justification: 03:09:56
+
+Linked List
+--------------------------
+dd Two Numbers: 00:11:40
+Reverse a Linked List: 00:21:08
+Detect Cycle in a Linked List: 00:28:59
+Merge Two Sorted Lists: 00:40:17
+Merge K Sorted Lists: 00:51:08
+Remove Nth Node From End Of List: 01:02:49
+Reorder List: 01:13:13
+Middle of the Linked-List: 01:28:57
+Flatten Binary Tree to Linked List: 01:39:19
+Reverse Nodes in k-Group: 01:51:41
+Copy List With Random Pointer: 02:09:01
+Linked List Cycle: 02:25:45
+Find The Duplicate Number: 02:37:11
+LRU Cache: 02:50:56
+
+Stack
+--------------------
